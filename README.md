@@ -11,8 +11,8 @@ This Python program captures MIDI input from a piano (such as a Yamaha P-51) and
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/midi-input-display.git
-   cd midi-input-display
+   git clone https://github.com/brparry/Piano.git
+   cd Piano
    ```
 
 2. Create a virtual environment and activate it:
@@ -31,7 +31,7 @@ This Python program captures MIDI input from a piano (such as a Yamaha P-51) and
 1. Connect your MIDI piano to your computer.
 2. Run the program:
    ```
-   python midi_display.py
+   python Piano.py
    ```
 3. Select the appropriate MIDI input port when prompted.
 4. Play your piano and watch the keys light up on screen!
